@@ -7,10 +7,10 @@ sections:
 - type: heading
   label: دردنوشته های من
 - type: jekyll-pages
-  label: Pages
+  label: صفحات
   create: all
 - type: jekyll-posts
-  label: Posts
+  label: پست ها
   create: all
 upload_dir: uploads
 public_path: "/uploads"
